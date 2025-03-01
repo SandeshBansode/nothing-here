@@ -54,6 +54,7 @@ const courses = [
       { title: 'Due Diligence Deep Dive', duration: '90 min' },
       { title: 'Performance Tracking Metrics', duration: '60 min' },
       { title: 'Exit Strategy Planning', duration: '75 min' }
+      
     ]
   }
 ];

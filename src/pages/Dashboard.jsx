@@ -32,25 +32,25 @@ function Dashboard() {
             title="Total Startups" 
             value="2,543" 
             percentage={12.5} 
-            icon="Most Trending" 
+            icon="Most Trending : " 
           />
           <MetricsCard 
             title="Active Investors" 
             value="1,234" 
             percentage={8.2} 
-            
+            icon = "Groups : "
           />
           <MetricsCard 
             title="Total Investments" 
             value="$12.4M" 
             percentage={15.3} 
-            icon="payments" 
+            icon="payments : " 
           />
           <MetricsCard 
             title="Success Rate" 
             value="94%" 
             percentage={4.5} 
-            icon="target" 
+            icon="target : " 
           />
         </div>
         

@@ -32,7 +32,7 @@ function Dashboard() {
             title="Total Startups" 
             value="2,543" 
             percentage={12.5} 
-            icon="trending_up" 
+            icon="src/assets/pngs/Screenshot 2025-03-02 004029.png" 
           />
           <MetricsCard 
             title="Active Investors" 

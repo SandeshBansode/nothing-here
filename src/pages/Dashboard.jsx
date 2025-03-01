@@ -44,13 +44,13 @@ function Dashboard() {
             title="Total Investments" 
             value="$12.4M" 
             percentage={15.3} 
-            icon="payments : " 
+            icon="Payments : " 
           />
           <MetricsCard 
             title="Success Rate" 
             value="94%" 
             percentage={4.5} 
-            icon="target : " 
+            icon="Target : " 
           />
         </div>
         
